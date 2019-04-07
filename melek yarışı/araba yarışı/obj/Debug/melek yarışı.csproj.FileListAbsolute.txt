@@ -1,0 +1,10 @@
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\bin\Debug\melek yarışı.exe.config
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\bin\Debug\melek yarışı.exe
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\bin\Debug\melek yarışı.pdb
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek yarışı.csprojAssemblyReference.cache
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek_yarışı.Form1.resources
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek_yarışı.Properties.Resources.resources
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek yarışı.csproj.GenerateResource.cache
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek yarışı.csproj.CoreCompileInputs.cache
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek yarışı.exe
+C:\Users\zeysert\source\repos\melek yarışı\melek yarışı\obj\Debug\melek yarışı.pdb
